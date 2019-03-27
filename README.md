@@ -9,13 +9,13 @@ Créez une fonction PHP qui prend comme argument n'importe quel nombre entier su
 
 # Exemple :
 
-*En entrée :
+_En entrée :_
 
 1
  
 
 
-*En sortie:
+_En sortie:_
 
 1
 25 76 38 19 58 29 88 44 22 11 34 17 52 26 13 40 20 10 5 16 8 4 2 1
