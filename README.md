@@ -9,6 +9,7 @@ _Inventée par Lothar Collatz (1910 - 1990)_
 Créez une fonction PHP qui prend comme argument n'importe quel nombre entier supérieur à zéro.
 * Si le nombre est pair divisez-le par 2.
 * Si le nombre est impair multipliez-le par 3 et ajoutez 1. 
+
 Au final votre fonction doit retourner une série de nombre, le dernier de ces nombres #doit être 1#. La fonction réalisera des 'echo' de chaque étape intermédiaire.
 
 # Exemple :
